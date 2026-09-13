@@ -76,7 +76,7 @@ I'm particularly interested in how AI can move beyond generating answers and bec
 
 <div align="center">
 
-### ARTfulWay
+### ARTFULWAY
 
 **AI × Product × Execution**
 
